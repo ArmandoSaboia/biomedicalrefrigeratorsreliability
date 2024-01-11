@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+streamlit
+random
+folium
+plotly.express
+pycaret[full]
+python-dotenv
+psycopg2
+-e .
